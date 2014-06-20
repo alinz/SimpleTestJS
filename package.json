@@ -1,0 +1,17 @@
+{
+    "name": "simpletestjs",
+    "description": "Simple Test Suite Framework",
+    "author": {
+        "name": "Ali Najafizadeh",
+        "email": "a.najafizadeh@gmail.com",
+        "url": "http://blog.unilius.com"
+    },
+    "version": "0.0.1",
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/alinz/SimpleTestJS.git"
+    },
+    "main": "lib/simpletest.js",
+    "engine": "node >= 0.10.0"
+}
