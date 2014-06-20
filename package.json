@@ -1,6 +1,6 @@
 {
     "name": "simpletestjs",
-    "description": "Simple Test Suite Framework",
+    "description": "Simple Test Suite Framework for Node.js",
     "author": {
         "name": "Ali Najafizadeh",
         "email": "a.najafizadeh@gmail.com",
